@@ -1,0 +1,61 @@
+@import url(//fonts.googleapis.com/css?family=Antic+Slab|Libre+Baskerville);
+
+.node circle {
+  fill: #fff;
+  stroke: #343434;
+  stroke-width: 4px;
+}
+
+.node {
+  font: 12px sans-serif;
+  cursor: pointer;
+}
+
+.link, .infolink {
+  fill: none;
+  stroke: #57a346;
+  stroke-width: 4px;
+}
+
+svg{
+  display:block;
+  margin:auto;
+}
+
+.infoBox{
+  display:block;
+  margin:auto;
+  padding:20px;
+  width:540px;
+  /*text-align: center;*/
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.05) 1px 1px 1px;
+}
+.infoBox img{
+  margin: auto;
+  display: block;
+}
+.infoAvatar{
+  margin: 18px 18px 15px 15px;
+  font-size: 40px;
+  float: right;
+}
+.infoAvatar img{
+  width: 50px;
+  border-radius: 3px;
+}
+.infoTitle{
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: bold;
+}
+.infoSubhead{
+  margin-bottom: 15px;
+  line-height: 20px;
+}
+.infoText{
+  line-height: 20px;
+}

@@ -1,0 +1,108 @@
+{
+    "name": "Alicio Romoli",
+    "image": "images/alicio.png",
+    "info": {
+        "title": "Hi, my name is Alicio Romoli",
+        "subhead": "Front End developer",
+        "text": "<div><p>As a Front End developer I have experience working in web applications and building websites using JavaScript, Typescript, React, Redux. I also have experience working on Back End using NodeJS, and database like mongoDB, Postgres, fireBase and typeORM</a></p></div>",
+        "avatar": "./images/alicio2.jpg"
+    },
+    "children": [
+        {
+            "name": "Education",
+            "image": "./images/education.png",
+            "children": [
+                {
+                    "name": "BSc (Hons)",
+                    "info": {
+                        "title": "Roehampton Uiversity",
+                        "subhead": "Computer Technologies",
+                        "text": "Specialization: Web Engineering & Security,Introduction to Devices & Networks, User Experience Design, Object-Oriented Programming, Data Science for Developers, Cloud Computing.",
+                        "avatar": ""
+                    }
+                },
+                {
+                    "name": "Bootcamp",
+                    "info": {
+                        "title": "Rockeseat",
+                        "subhead": "FoodFy Final Project",
+                        "text": "Specialization: Nodejs, Javascript, Css, Express, Nunjucks, Postgres",
+                        "avatar": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Personal Projects",
+            "image": "./images/personalprojects.png",
+            "info": {
+                "title": "Front End",
+                "subhead": "As a Front End developer I have experience working in web applications and building websites using JavaScript, Typescript, React, Redux. I also have experience working on Back End using NodeJS, and database like mongoDB, Postgres, fireBase and typeORM",
+                "text": "",
+                "avatar": ""
+            },
+            "children": [
+                {
+                    "name": "Crpto Finance",
+                    "info": {
+                        "title": "Crpto Finance",
+                        "subhead": "Stacks: JAVASCRIPT REACT FIREBASE CSS",
+                        "text": "<ul><li>A website that was built using Backend-as-a-Service platform(firebase) and front end(ReactJS).</li><li>The app uses CRUD(Create, Read, Update and Delete) in order to manipulate the data from the register users.</li></ul>",
+                        "avatar": ""
+                    }
+                },
+                {
+                    "name": "Foodfy",
+                    "info": {
+                        "title": "Foodfy",
+                        "subhead": "Stacks: JAVASCRIPT NODEJS EXPRESS POSTGRES CSS NUNJUCKS",
+                        "text": "<ul><li>The project geared towards culinary in general. A Recipe website made by users .</li><li>It has an admin system for managing data purposes, which includes information about chefs, users, and recipes. </li><li>The Frameworks and technologies used for front end and back end was NodeJs, SQL Server (PostGresSQL), express, nunjucks and Javascript.</li></ul>",
+                        "avatar": ""
+                    }
+                },
+                {
+                    "name": "Ecoleta",
+                    "info": {
+                        "title": "Ecoleta",
+                        "subhead": "Stacks: NODEJS EXPRESS TYPESCRIPT REACTNATIVE REACT SQLITE KNEX",
+                        "text": "<ul><li>A website that was built using Backend-as-a-Service platform(firebase) and front end(ReactJS).</li><li>The app uses CRUD(Create, Read, Update and Delete) in order to manipulate the data from the register users.</li></ul>",
+                        "avatar": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Work experience",
+            "image": "./images/work.png",
+            "children": [
+                {
+                    "name": "Some Experience",
+                    "info": {
+                        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+                        "subhead": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "avatar": ""
+                    }
+                },
+                {
+                    "name": "Some Experience",
+                    "info": {
+                        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+                        "subhead": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "avatar": ""
+                    }
+                },
+                {
+                    "name": "Some Experience",
+                    "info": {
+                        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+                        "subhead": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati voluptates fugit quas quia ducimus quisquam pariatur porro omnis dolore animi culpa optio, amet inventore sapiente sunt repellat exercitationem totam?",
+                        "avatar": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
